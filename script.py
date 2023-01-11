@@ -10,4 +10,7 @@ while True:
         quit()
 
     reply = bot.reply("localuser", msg)
-    print('Bot>', reply)
+    print('Bot>', reply) # reponse bot
+
+    
+
